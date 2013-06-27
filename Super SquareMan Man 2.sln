@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Super SquareMan Man 2", "Super SquareMan Man 2\Super SquareMan Man 2\Super SquareMan Man 2.csproj", "{1075F145-277F-4A44-86D4-1B0A6E75F052}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Super SquareMan Man 2Content", "Super SquareMan Man 2\Super SquareMan Man 2Content\Super SquareMan Man 2Content.contentproj", "{2C50A876-269C-48C6-8531-EC5FBDD67659}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1075F145-277F-4A44-86D4-1B0A6E75F052}.Debug|x86.ActiveCfg = Debug|x86
+		{1075F145-277F-4A44-86D4-1B0A6E75F052}.Debug|x86.Build.0 = Debug|x86
+		{1075F145-277F-4A44-86D4-1B0A6E75F052}.Release|x86.ActiveCfg = Release|x86
+		{1075F145-277F-4A44-86D4-1B0A6E75F052}.Release|x86.Build.0 = Release|x86
+		{2C50A876-269C-48C6-8531-EC5FBDD67659}.Debug|x86.ActiveCfg = Debug|x86
+		{2C50A876-269C-48C6-8531-EC5FBDD67659}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
